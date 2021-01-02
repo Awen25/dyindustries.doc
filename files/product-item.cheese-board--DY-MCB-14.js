@@ -21,30 +21,25 @@ var productDetails={
          "bd": {
             "id": "888300014",
             "img": "/images/products/marble-cheese-board/cheese board _DY-MCB-14/1.jpg",
-            "imgs": [
-               {
-                  "src": "/images/products/marble-cheese-board/cheese board _DY-MCB-14/1.jpg",
-                  "alt": "cheese board  DY-MCB-14 1"
-               }
-            ],
+            "imgs": [],
             "title": "cheese board ",
             "sku": "SKU:DY-MCB-14",
             "attar": [
                {
                   "key": "Color",
-                  "value": "Natural"
+                  "value": "Silver / Gold / Rose Gold Marble"
                },
                {
                   "key": "Material",
-                  "value": "Acacia wood & Marble"
+                  "value": "Ceramic Handle & Stainless Steel Blade"
                },
                {
                   "key": "Size",
-                  "value": "15.7*8.8*0.5\"/13.7*7\"*0.5\""
+                  "value": "L: 6 x 0.7 inches(Gift box Size: 7.5\" x 6.8\"x 1.4\"  and Color box packaging can be customized according to customer design )"
                },
                {
                   "key": "Features",
-                  "value": ""
+                  "value": "Marble patten"
                },
                {
                   "key": "Sample",
@@ -59,7 +54,7 @@ var productDetails={
                   "value": "1000 SETS"
                }
             ],
-            "Description": "Modern Rectangular Shaped 15.7\" Marble Cutting Boards/Serving Trays;  black marble and acacia wood cheese board Use for Cheese, Charcuterie, Bread or as a Decorative Piece <br/><br/>CLASSIC MARBLE, MODERN DESIGN \u2013 The Timeless Beauty Of This Natural Stone Blends with Any D\u00e9cor; Each Piece is A Work of Art to Elevate Your Home\u2019s Style <br/>PERFECT CHEESEBOARD \u2013 Enjoy Serving Guests A Variety of Cheeses on the Marble Tray, Naturally Maintaining Ideal Cool Temperature for Your Cheese Platter<br/>CHOOSE YOUR CHARCUTERIE \u2013 Multipurpose Marble Serving Platter Can Be Used as A Tray for Meats, Cheeses, Crackers, Fruit & More for An Elegant Charcuterie<br/>ARTISANAL BREADBOARD \u2013 Serve & Slice Loaves of Hearty Artisanal Breads; Marble Won\u2019t Absorb Smells Like Wood, So No Odors Linger to Affect Your Foods<br/>CONVENIENCE & STYLE \u2013 The Attractive Leather Strap Allows You to Proudly Display the Board When Not in Use; Makes a Beautiful Accent for Your Kitchen Leather Strap Allows You to Proudly Display the Board When Not in Use.<br/><br/><br/>"
+            "Description": "Marbled Cheese Knife Set  | Set of 4 Marble-Look Stainless Steel Knives in color Box marble stainless steel kitchen cheese knives accessories sets scraper butter spreader gold cheese knife set <br/> <b>\u25b6</b>This stylish set of 4 cheese knives feature a stainless steel blade and a handcrafted marble-look ceramic handle.  <br/>\u25b6Each knife measures approximately 6 x 0.7 inches / 15 x 2 cm.  <br/><b>\u25b6</b>Each knife in the set has a different blade, making them ideal for both hard and soft cheeses. <br/><b>\u25b6</b>Packing details: 4PCS/SET   <br/>\u25b6<b>cheese spread with the same pattern can be customized</b>  <br/> "
          },
          "ft": [
             {

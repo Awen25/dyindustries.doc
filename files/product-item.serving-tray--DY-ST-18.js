@@ -21,34 +21,25 @@ var productDetails={
          "bd": {
             "id": "888400018",
             "img": "/images/products/serving-tray/Serving Tray _DY-ST-18/1.jpg",
-            "imgs": [
-               {
-                  "src": "/images/products/serving-tray/Serving Tray _DY-ST-18/1.jpg",
-                  "alt": "Serving Tray  DY-ST-18 1"
-               },
-               {
-                  "src": "/images/products/serving-tray/Serving Tray _DY-ST-18/2.jpg",
-                  "alt": "Serving Tray  DY-ST-18 2"
-               }
-            ],
+            "imgs": [],
             "title": "Serving Tray ",
             "sku": "SKU:DY-ST-18",
             "attar": [
                {
                   "key": "Color",
-                  "value": "Natural Brown"
+                  "value": "Silver / Gold / Rose Gold Marble"
                },
                {
                   "key": "Material",
-                  "value": "Acacia wood & Metal"
+                  "value": "Ceramic Handle & Stainless Steel Blade"
                },
                {
                   "key": "Size",
-                  "value": "17\" x 17\" x 1.5\""
+                  "value": "L: 6 x 0.7 inches(Gift box Size: 7.5\" x 6.8\"x 1.4\"  and Color box packaging can be customized according to customer design )"
                },
                {
                   "key": "Features",
-                  "value": ""
+                  "value": "Marble patten"
                },
                {
                   "key": "Sample",
@@ -63,7 +54,7 @@ var productDetails={
                   "value": "1000 SETS"
                }
             ],
-            "Description": "Acacia wooden turntable, Rotating Serving Board, Rotating cake stand, Cake Display Stand Base, Revolving Cake Decorating Stand<br/><br/>Rotating Serving Board cake stand. The Board is made of Acacia, an attractive hardwood with walnut-like coloration and durability.<br/><br/>Every board is made from a unique piece of wood so this means the grain will be different on each and everyone, they are all beautiful.<br/><br/>Using a pretty wooden board as a serving platter is an entertaining trick we love. This board is made just for that purpose. Use one side as a setting for cheese, charcuterie, and small bites, and the other side as a cutting surface.<br/><br/>Commercial Grade Metal Bearings - Heavy-duty metal base and industrial grade bearings ensure a smooth, steady, and whisper-quiet action that will last for years vs low-cost plastic bearings that are loud and jittery.<br/>"
+            "Description": "Marbled Cheese Knife Set  | Set of 4 Marble-Look Stainless Steel Knives in color Box marble stainless steel kitchen cheese knives accessories sets scraper butter spreader gold cheese knife set <br/> <b>\u25b6</b>This stylish set of 4 cheese knives feature a stainless steel blade and a handcrafted marble-look ceramic handle.  <br/>\u25b6Each knife measures approximately 6 x 0.7 inches / 15 x 2 cm.  <br/><b>\u25b6</b>Each knife in the set has a different blade, making them ideal for both hard and soft cheeses. <br/><b>\u25b6</b>Packing details: 4PCS/SET   <br/>\u25b6<b>cheese spread with the same pattern can be customized</b>  <br/> "
          },
          "ft": [
             {

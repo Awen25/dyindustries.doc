@@ -21,30 +21,25 @@ var productDetails={
          "bd": {
             "id": "888300011",
             "img": "/images/products/marble-cheese-board/cheese board _DY-MCB-11/1.jpg",
-            "imgs": [
-               {
-                  "src": "/images/products/marble-cheese-board/cheese board _DY-MCB-11/1.jpg",
-                  "alt": "cheese board  DY-MCB-11 1"
-               }
-            ],
+            "imgs": [],
             "title": "cheese board ",
             "sku": "SKU:DY-MCB-11",
             "attar": [
                {
                   "key": "Color",
-                  "value": "Natural"
+                  "value": "Silver / Gold / Rose Gold Marble"
                },
                {
                   "key": "Material",
-                  "value": "Acacia wood & Marble"
+                  "value": "Ceramic Handle & Stainless Steel Blade"
                },
                {
                   "key": "Size",
-                  "value": "18*7*0.6\""
+                  "value": "L: 6 x 0.7 inches(Gift box Size: 7.5\" x 6.8\"x 1.4\"  and Color box packaging can be customized according to customer design )"
                },
                {
                   "key": "Features",
-                  "value": ""
+                  "value": "Marble patten"
                },
                {
                   "key": "Sample",
@@ -59,7 +54,7 @@ var productDetails={
                   "value": "1000 SETS"
                }
             ],
-            "Description": "Natural White Marble with Acacia Wood Board, Long Pastry Board Set <br/><br/>The gorgeous handcrafted rectangular board keeps moisture, grease, and odors from penetrating is easy to clean, and is nonporous. Ideal for pastries and keeps the dough from sticking and ensures the butter or fat in pastry stays cool and doesn\u2019t absorb any moisture or fat. <br/><br/>You can use this Pine cones serving board for a variety of entertaining purposes such as for appetizers or as the entree serving piece. Load it with sweets for a holiday feast with friends.<br/><br/>Thanks to the cute appeal of this meat and cheese serving tray that already has a spreader, simply wrap it up and give it as a gift for any holiday or occasion.<br/><br/>Convenience & Style \u2013 Marble won\u2019t absorb smells like wood. Multipurpose marble serving platter can be used as a tray for meats, cheeses, crackers, fruits & more for an elegant charcuterie. No odors linger to affect your foods. Proudly display the board and make a unique style for your kitchen!<br/><br/>Easy To Clean - Clean with a gentle hand wash with soap and water.<br/><br/><br/>"
+            "Description": "Marbled Cheese Knife Set  | Set of 4 Marble-Look Stainless Steel Knives in color Box marble stainless steel kitchen cheese knives accessories sets scraper butter spreader gold cheese knife set <br/> <b>\u25b6</b>This stylish set of 4 cheese knives feature a stainless steel blade and a handcrafted marble-look ceramic handle.  <br/>\u25b6Each knife measures approximately 6 x 0.7 inches / 15 x 2 cm.  <br/><b>\u25b6</b>Each knife in the set has a different blade, making them ideal for both hard and soft cheeses. <br/><b>\u25b6</b>Packing details: 4PCS/SET   <br/>\u25b6<b>cheese spread with the same pattern can be customized</b>  <br/> "
          },
          "ft": [
             {

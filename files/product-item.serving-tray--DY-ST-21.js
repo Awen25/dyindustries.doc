@@ -21,30 +21,25 @@ var productDetails={
          "bd": {
             "id": "888400021",
             "img": "/images/products/serving-tray/Serving Tray _DY-ST-21/1.jpg",
-            "imgs": [
-               {
-                  "src": "/images/products/serving-tray/Serving Tray _DY-ST-21/1.jpg",
-                  "alt": "Serving Tray  DY-ST-21 1"
-               }
-            ],
+            "imgs": [],
             "title": "Serving Tray ",
             "sku": "SKU:DY-ST-21",
             "attar": [
                {
                   "key": "Color",
-                  "value": "Natural, green"
+                  "value": "Silver / Gold / Rose Gold Marble"
                },
                {
                   "key": "Material",
-                  "value": "Acacia wood & resin"
+                  "value": "Ceramic Handle & Stainless Steel Blade"
                },
                {
                   "key": "Size",
-                  "value": "31.5\" "
+                  "value": "L: 6 x 0.7 inches(Gift box Size: 7.5\" x 6.8\"x 1.4\"  and Color box packaging can be customized according to customer design )"
                },
                {
                   "key": "Features",
-                  "value": ""
+                  "value": "Marble patten"
                },
                {
                   "key": "Sample",
@@ -59,7 +54,7 @@ var productDetails={
                   "value": "1000 SETS"
                }
             ],
-            "Description": "Extra Long Large Acacia Wood Tray with resin Handles, Serve Tea, Coffee or Breakfast in Bed, Classic Wooden Decorative Serving Tray<br/><br/>You will need some extra space in your living room for drinks, food, and odds and ends storage. Turn your ottoman into a small table, It's a perfect ottoman or a coffee table accessory. Whether you\u2019re styling an ottoman, serving breakfast in bed, organizing your bathroom toiletries, holding TV remotes and video game controllers, or even resting plants, this tray is meant to be there for you no matter what.<br/>They are 100% natural acacia wood, solid and heavy wood tray that won't slide around on your ottoman or table. We pick, precision cut, and hand sand each board, and then all edges are routed to give them an eye-catching look that\u2019s smooth to the touch, adds a touch of luxury to any kitchen, dining room, or living area.<br/>This flat tray also a perfect extra-long 31.5-inch charcuterie board tray, large cheeseboard, and appetizer tray. The natural wood combined with the creative resin handles will deliver a striking presentation when serving appetizers. Classic and beautiful wooden trays like this make a fantastic gift for the holidays, weddings, bridal showers, anniversary, housewarming parties, birthdays. or for displaying decorations on your dining table or coffee table.<br/><br/>Wipe it with a damp cloth and dry it with a towel. make the surface dry completely and wipe with soybean oil or any other vegetable oil to restore the surface glossy dark finish. The color varies according to the amount of wax oil used in the wooden tray."
+            "Description": "Marbled Cheese Knife Set  | Set of 4 Marble-Look Stainless Steel Knives in color Box marble stainless steel kitchen cheese knives accessories sets scraper butter spreader gold cheese knife set <br/> <b>\u25b6</b>This stylish set of 4 cheese knives feature a stainless steel blade and a handcrafted marble-look ceramic handle.  <br/>\u25b6Each knife measures approximately 6 x 0.7 inches / 15 x 2 cm.  <br/><b>\u25b6</b>Each knife in the set has a different blade, making them ideal for both hard and soft cheeses. <br/><b>\u25b6</b>Packing details: 4PCS/SET   <br/>\u25b6<b>cheese spread with the same pattern can be customized</b>  <br/> "
          },
          "ft": [
             {

@@ -21,30 +21,25 @@ var productDetails={
          "bd": {
             "id": "888400013",
             "img": "/images/products/serving-tray/Serving Tray _DY-ST-13/1.jpg",
-            "imgs": [
-               {
-                  "src": "/images/products/serving-tray/Serving Tray _DY-ST-13/1.jpg",
-                  "alt": "Serving Tray  DY-ST-13 1"
-               }
-            ],
+            "imgs": [],
             "title": "Serving Tray ",
             "sku": "SKU:DY-ST-13",
             "attar": [
                {
                   "key": "Color",
-                  "value": "Pink, Natural"
+                  "value": "Silver / Gold / Rose Gold Marble"
                },
                {
                   "key": "Material",
-                  "value": "Acacia wood & Galvanized iron"
+                  "value": "Ceramic Handle & Stainless Steel Blade"
                },
                {
                   "key": "Size",
-                  "value": "18\" x 12\" x 2\""
+                  "value": "L: 6 x 0.7 inches(Gift box Size: 7.5\" x 6.8\"x 1.4\"  and Color box packaging can be customized according to customer design )"
                },
                {
                   "key": "Features",
-                  "value": ""
+                  "value": "Marble patten"
                },
                {
                   "key": "Sample",
@@ -59,7 +54,7 @@ var productDetails={
                   "value": "1000 SETS"
                }
             ],
-            "Description": "Metal rectangle Serving Tray with wood base, Kitchen Multi-Purpose Serveware for Coffee Table, Dinner, Breakfast, Food, Farmhouse Decor,  Home <br/><br/>These premium trays are made from a high-quality material that lends them a sleek look. Non-porous; won\u2019t stain, or absorb food odors and flavors.<br/><br/>Premium Wood Handles \u2013 Each steel serving tray features wooden handles that make it easier to carry in the kitchen, dining room, or to your backyard barbecue.<br/><br/>Shaped to perfection: the dish is shaped to perfection with breakthrough styling and unmatched brand value. The unique glass shape enhances the content's aromas and flavors. It increases the overall experience and is strongly recommended by experts. Has an elegant look and adds to any table's aesthetics with its contemporary design.<br/>Great for Any Event, Durable for Daily Use. Choose products that are free from harmful chemicals and toxins. These platters are BPA free so you can count on quality. They\u2019re strong and sturdy enough to hold a variety of items.<br/>Set the table, buffet, or snack bar with all your favorite treats for guests to enjoy. Use them to showcase fruits and vegetables or keep it simple with chips and dips. They\u2019re perfect for holidays or game days.<br/>Perfect kitchen decoration to have while hanging by the swimming pool bar stools cooking food on the grill like a pro under the patio umbrella relaxing by the outdoor lounge dining table set on an Adirondack chair with your home decor entertainment center dinnerware set<br/>RECOMMENDED USES: These are perfect party decorations. Depending on the theme you will find a use for them. They make great gifts for any occasion. These are perfect for Christmas, Birthday Gifts, Wedding Party, your best selling beverage, Valentine's Day, Anniversary, Father's Day, Mother's Day, Housewarming, cyber Monday and Black Friday sale gifts, New Years, College Graduation, St. Patrick's Day, Congratulations, Job Promotion, Stocking Stuffers and Secret Santa Gifts!<br/>"
+            "Description": "Marbled Cheese Knife Set  | Set of 4 Marble-Look Stainless Steel Knives in color Box marble stainless steel kitchen cheese knives accessories sets scraper butter spreader gold cheese knife set <br/> <b>\u25b6</b>This stylish set of 4 cheese knives feature a stainless steel blade and a handcrafted marble-look ceramic handle.  <br/>\u25b6Each knife measures approximately 6 x 0.7 inches / 15 x 2 cm.  <br/><b>\u25b6</b>Each knife in the set has a different blade, making them ideal for both hard and soft cheeses. <br/><b>\u25b6</b>Packing details: 4PCS/SET   <br/>\u25b6<b>cheese spread with the same pattern can be customized</b>  <br/> "
          },
          "ft": [
             {

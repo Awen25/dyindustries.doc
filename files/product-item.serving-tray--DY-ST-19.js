@@ -21,30 +21,25 @@ var productDetails={
          "bd": {
             "id": "888400019",
             "img": "/images/products/serving-tray/Serving Tray _DY-ST-19/1.jpg",
-            "imgs": [
-               {
-                  "src": "/images/products/serving-tray/Serving Tray _DY-ST-19/1.jpg",
-                  "alt": "Serving Tray  DY-ST-19 1"
-               }
-            ],
+            "imgs": [],
             "title": "Serving Tray ",
             "sku": "SKU:DY-ST-19",
             "attar": [
                {
                   "key": "Color",
-                  "value": "Natural Brown"
+                  "value": "Silver / Gold / Rose Gold Marble"
                },
                {
                   "key": "Material",
-                  "value": "Acacia wood & Metal"
+                  "value": "Ceramic Handle & Stainless Steel Blade"
                },
                {
                   "key": "Size",
-                  "value": "14\" x 10\" x 1.5\""
+                  "value": "L: 6 x 0.7 inches(Gift box Size: 7.5\" x 6.8\"x 1.4\"  and Color box packaging can be customized according to customer design )"
                },
                {
                   "key": "Features",
-                  "value": ""
+                  "value": "Marble patten"
                },
                {
                   "key": "Sample",
@@ -59,7 +54,7 @@ var productDetails={
                   "value": "1000 SETS"
                }
             ],
-            "Description": "Rustic Metal Wire & Wood Nesting Serving Trays with Handles, monogrammed S serving board with metal base <br/><br/>Decorative metal wire and wood nesting serving trays perfect for storage and for serving food and drinks to guests.<br/><br/>Nesting design allows baskets to be easily put into storage when not in use. <br/><br/>Side handles allow for easy transportation from room to room<br/>Metal wire and wood aesthetic complement rustic decors.<br/><br/>Rectangle Serving Tray with Handles Home and Kitchen Multi-Purpose Serveware for Coffee Table, Dinner, Breakfast, Food, Farmhouse Decor."
+            "Description": "Marbled Cheese Knife Set  | Set of 4 Marble-Look Stainless Steel Knives in color Box marble stainless steel kitchen cheese knives accessories sets scraper butter spreader gold cheese knife set <br/> <b>\u25b6</b>This stylish set of 4 cheese knives feature a stainless steel blade and a handcrafted marble-look ceramic handle.  <br/>\u25b6Each knife measures approximately 6 x 0.7 inches / 15 x 2 cm.  <br/><b>\u25b6</b>Each knife in the set has a different blade, making them ideal for both hard and soft cheeses. <br/><b>\u25b6</b>Packing details: 4PCS/SET   <br/>\u25b6<b>cheese spread with the same pattern can be customized</b>  <br/> "
          },
          "ft": [
             {

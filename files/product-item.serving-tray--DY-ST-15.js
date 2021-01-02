@@ -21,30 +21,25 @@ var productDetails={
          "bd": {
             "id": "888400015",
             "img": "/images/products/serving-tray/Serving Tray _DY-ST-15/1.jpg",
-            "imgs": [
-               {
-                  "src": "/images/products/serving-tray/Serving Tray _DY-ST-15/1.jpg",
-                  "alt": "Serving Tray  DY-ST-15 1"
-               }
-            ],
+            "imgs": [],
             "title": "Serving Tray ",
             "sku": "SKU:DY-ST-15",
             "attar": [
                {
                   "key": "Color",
-                  "value": "Natural, black"
+                  "value": "Silver / Gold / Rose Gold Marble"
                },
                {
                   "key": "Material",
-                  "value": "Acacia wood & iron"
+                  "value": "Ceramic Handle & Stainless Steel Blade"
                },
                {
                   "key": "Size",
-                  "value": "20.5\" x 16\" x 1\""
+                  "value": "L: 6 x 0.7 inches(Gift box Size: 7.5\" x 6.8\"x 1.4\"  and Color box packaging can be customized according to customer design )"
                },
                {
                   "key": "Features",
-                  "value": ""
+                  "value": "Marble patten"
                },
                {
                   "key": "Sample",
@@ -59,7 +54,7 @@ var productDetails={
                   "value": "1000 SETS"
                }
             ],
-            "Description": "Wine Barrel Serving Tray and Charcuterie Board with Metal base Handles, 20\" Round Wood Platter, Farmhouse Style<br/><br/>Wine Barrel Top Inspired Serving Tray - Features stained cypress wood to resemble a rustic wine barrel top. Accented with a decorative metal band and handles for a stylish finish that is both classic and modern.<br/>Extra Large Size - Round serving tray measures 20\" across, perfect for a large party platter for snacks and finger foods. Tray is 1\" tall.<br/>Ideal for Multiple Occasions - Use as a cocktail station, plated cheese and fruit spread, cupcake bar, appetizer platter, and more.<br/>Farmhouse Wood and Metal - The tray is lightweight and easy to handle. Wide handles add stability, which is a plus when the tray is loaded with appetizers, food, or drinks.<br/>"
+            "Description": "Marbled Cheese Knife Set  | Set of 4 Marble-Look Stainless Steel Knives in color Box marble stainless steel kitchen cheese knives accessories sets scraper butter spreader gold cheese knife set <br/> <b>\u25b6</b>This stylish set of 4 cheese knives feature a stainless steel blade and a handcrafted marble-look ceramic handle.  <br/>\u25b6Each knife measures approximately 6 x 0.7 inches / 15 x 2 cm.  <br/><b>\u25b6</b>Each knife in the set has a different blade, making them ideal for both hard and soft cheeses. <br/><b>\u25b6</b>Packing details: 4PCS/SET   <br/>\u25b6<b>cheese spread with the same pattern can be customized</b>  <br/> "
          },
          "ft": [
             {

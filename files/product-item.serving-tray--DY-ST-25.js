@@ -21,30 +21,25 @@ var productDetails={
          "bd": {
             "id": "888400025",
             "img": "/images/products/serving-tray/Serving Tray _DY-ST-25/1.jpg",
-            "imgs": [
-               {
-                  "src": "/images/products/serving-tray/Serving Tray _DY-ST-25/1.jpg",
-                  "alt": "Serving Tray  DY-ST-25 1"
-               }
-            ],
+            "imgs": [],
             "title": "Serving Tray ",
             "sku": "SKU:DY-ST-25",
             "attar": [
                {
                   "key": "Color",
-                  "value": "clear natural"
+                  "value": "Silver / Gold / Rose Gold Marble"
                },
                {
                   "key": "Material",
-                  "value": "Acacia wood  &  glass"
+                  "value": "Ceramic Handle & Stainless Steel Blade"
                },
                {
                   "key": "Size",
-                  "value": "11.6\""
+                  "value": "L: 6 x 0.7 inches(Gift box Size: 7.5\" x 6.8\"x 1.4\"  and Color box packaging can be customized according to customer design )"
                },
                {
                   "key": "Features",
-                  "value": ""
+                  "value": "Marble patten"
                },
                {
                   "key": "Sample",
@@ -59,7 +54,7 @@ var productDetails={
                   "value": "1000 SETS"
                }
             ],
-            "Description": "Acacia wood Footed Round Wood Server Cake Stand with Glass Dome<br/>Gorgeous acacia wood serving board with show-stopping glass dome brings warm, natural sophistication to any decor; Great for entertaining and gifting. <br/>Adds elegance to desserts, Cocktail, and wine-tasting parties, brunches, and more \u2014 serves up everything from cakes and muffins to cheese plates.<br/>Footed 11. 6-Ich round serving Board comes with 10. 5-Inch glass dome featuring Ball top for easy handling.<br/>The elegant pedestal bottom provides a stunning display; the raised board makes it easy for passing, serving, and sharing.  <br/>The glass dome made lead-free and should be washed by hand; the wood serving board can be wiped down with a damp cloth. <br/>"
+            "Description": "Marbled Cheese Knife Set  | Set of 4 Marble-Look Stainless Steel Knives in color Box marble stainless steel kitchen cheese knives accessories sets scraper butter spreader gold cheese knife set <br/> <b>\u25b6</b>This stylish set of 4 cheese knives feature a stainless steel blade and a handcrafted marble-look ceramic handle.  <br/>\u25b6Each knife measures approximately 6 x 0.7 inches / 15 x 2 cm.  <br/><b>\u25b6</b>Each knife in the set has a different blade, making them ideal for both hard and soft cheeses. <br/><b>\u25b6</b>Packing details: 4PCS/SET   <br/>\u25b6<b>cheese spread with the same pattern can be customized</b>  <br/> "
          },
          "ft": [
             {

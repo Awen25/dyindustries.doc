@@ -21,34 +21,25 @@ var productDetails={
          "bd": {
             "id": "88830007",
             "img": "/images/products/marble-cheese-board/cheese board _DY-MCB-07/1.jpg",
-            "imgs": [
-               {
-                  "src": "/images/products/marble-cheese-board/cheese board _DY-MCB-07/1.jpg",
-                  "alt": "cheese board  DY-MCB-07 1"
-               },
-               {
-                  "src": "/images/products/marble-cheese-board/cheese board _DY-MCB-07/2.jpg",
-                  "alt": "cheese board  DY-MCB-07 2"
-               }
-            ],
+            "imgs": [],
             "title": "cheese board ",
             "sku": "SKU:DY-MCB-07",
             "attar": [
                {
                   "key": "Color",
-                  "value": "Natural"
+                  "value": "Silver / Gold / Rose Gold Marble"
                },
                {
                   "key": "Material",
-                  "value": "Acacia wood & Marble & stainless steel"
+                  "value": "Ceramic Handle & Stainless Steel Blade"
                },
                {
                   "key": "Size",
-                  "value": "12\"*10*0.6\""
+                  "value": "L: 6 x 0.7 inches(Gift box Size: 7.5\" x 6.8\"x 1.4\"  and Color box packaging can be customized according to customer design )"
                },
                {
                   "key": "Features",
-                  "value": ""
+                  "value": "Marble patten"
                },
                {
                   "key": "Sample",
@@ -63,7 +54,7 @@ var productDetails={
                   "value": "1000 SETS"
                }
             ],
-            "Description": "Christmas Gingerbread Marble Cheese  Board with Knife set,  Creative  Marble Tray for Meats Breads Charcuterie  Cutting Serving Board Stainless Steel Knife - Seasonal board Artwork<br/><br/><br/>Classic Marble, Modern Design - Marble and Acacia wood cheese board is the perfect hors d'oeuvres serving tray for everyday use, dinner parties, and entertaining. Each piece is made of natural marble and unique in coloring to dress up your table. Enjoy serving guests a variety of cheeses on the marble tray!<br/>Perfect Set - 12'' inches Gingerbread man marble cheese board with a wood matching knife. Great for house warming, holiday parties, Christmas, birthday, wedding, mother's day and more.<br/>Handcrafted - This cheese board is handcrafted using polished white marble and sustainably Acacia wood with close attention to detail. Add a sophisticated restaurant-style touch to any table when serving cheeses or charcuterie!<br/>Convenience & Style \u2013 Marble won\u2019t absorb smells like wood. Multipurpose marble serving platter can be used as a tray for meats, cheeses, crackers, fruits & more for an elegant charcuterie. No odors linger to affect your foods. Proudly display the board and make a unique style for your kitchen!<br/>Easy To Clean - Clean with a gentle hand wash with soap and water.<br/>"
+            "Description": "Marbled Cheese Knife Set  | Set of 4 Marble-Look Stainless Steel Knives in color Box marble stainless steel kitchen cheese knives accessories sets scraper butter spreader gold cheese knife set <br/> <b>\u25b6</b>This stylish set of 4 cheese knives feature a stainless steel blade and a handcrafted marble-look ceramic handle.  <br/>\u25b6Each knife measures approximately 6 x 0.7 inches / 15 x 2 cm.  <br/><b>\u25b6</b>Each knife in the set has a different blade, making them ideal for both hard and soft cheeses. <br/><b>\u25b6</b>Packing details: 4PCS/SET   <br/>\u25b6<b>cheese spread with the same pattern can be customized</b>  <br/> "
          },
          "ft": [
             {

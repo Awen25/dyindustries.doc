@@ -21,30 +21,25 @@ var productDetails={
          "bd": {
             "id": "888800035",
             "img": "/images/products/wood-cheese-board/cheese board _DY-WCB-35/1.jpg",
-            "imgs": [
-               {
-                  "src": "/images/products/wood-cheese-board/cheese board _DY-WCB-35/1.jpg",
-                  "alt": "cheese board  DY-WCB-35 1"
-               }
-            ],
+            "imgs": [],
             "title": "cheese board ",
             "sku": "SKU:DY-WCB-35",
             "attar": [
                {
                   "key": "Color",
-                  "value": "Natural  wood   "
+                  "value": "Silver / Gold / Rose Gold Marble"
                },
                {
                   "key": "Material",
-                  "value": "Stainless Steel & Acacia wood "
+                  "value": "Ceramic Handle & Stainless Steel Blade"
                },
                {
                   "key": "Size",
-                  "value": "32 x 12 x 3.5cm "
+                  "value": "L: 6 x 0.7 inches(Gift box Size: 7.5\" x 6.8\"x 1.4\"  and Color box packaging can be customized according to customer design )"
                },
                {
                   "key": "Features",
-                  "value": ""
+                  "value": "Marble patten"
                },
                {
                   "key": "Sample",
@@ -59,7 +54,7 @@ var productDetails={
                   "value": "1000 SETS"
                }
             ],
-            "Description": "Elements of Space 4 Piece Wine and Cheese Gift Box Set \uff0cBottle Shaped wood Cheese Board with Spreader Knife, Cutting Board and cheese and wine Utensils - Grid Print Design <br/><br/>Wine and Cheese Gift Set by Elements of Space Includes wood Cutting Board Display Box and cheese k Utensils.<br/><br/>4 Piece Set Includes Wine Bottle Shaped  Cutting Board Lid with Wood Case,  Wine opener,  Cheese Knife, and cheese Fork. Cutting Board Lid Sits in Recess of Wood Box.<br/><br/>Made with Premium Quality Materials - Acacia Hard Wood Cutting Surface with grid print design and Stainless Steel Utensils.<br/><br/>A Perfect Gift for Housewarming, Entertaining, Holidays, Birthdays & Business Events."
+            "Description": "Marbled Cheese Knife Set  | Set of 4 Marble-Look Stainless Steel Knives in color Box marble stainless steel kitchen cheese knives accessories sets scraper butter spreader gold cheese knife set <br/> <b>\u25b6</b>This stylish set of 4 cheese knives feature a stainless steel blade and a handcrafted marble-look ceramic handle.  <br/>\u25b6Each knife measures approximately 6 x 0.7 inches / 15 x 2 cm.  <br/><b>\u25b6</b>Each knife in the set has a different blade, making them ideal for both hard and soft cheeses. <br/><b>\u25b6</b>Packing details: 4PCS/SET   <br/>\u25b6<b>cheese spread with the same pattern can be customized</b>  <br/> "
          },
          "ft": [
             {

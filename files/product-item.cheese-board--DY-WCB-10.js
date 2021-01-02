@@ -21,38 +21,25 @@ var productDetails={
          "bd": {
             "id": "888800010",
             "img": "/images/products/wood-cheese-board/cheese board _DY-WCB-10/1.jpg",
-            "imgs": [
-               {
-                  "src": "/images/products/wood-cheese-board/cheese board _DY-WCB-10/1.jpg",
-                  "alt": "cheese board  DY-WCB-10 1"
-               },
-               {
-                  "src": "/images/products/wood-cheese-board/cheese board _DY-WCB-10/2.jpg",
-                  "alt": "cheese board  DY-WCB-10 2"
-               },
-               {
-                  "src": "/images/products/wood-cheese-board/cheese board _DY-WCB-10/3.jpg",
-                  "alt": "cheese board  DY-WCB-10 3"
-               }
-            ],
+            "imgs": [],
             "title": "cheese board ",
             "sku": "SKU:DY-WCB-10",
             "attar": [
                {
                   "key": "Color",
-                  "value": "Natural wood  "
+                  "value": "Silver / Gold / Rose Gold Marble"
                },
                {
                   "key": "Material",
-                  "value": "Acacia wood "
+                  "value": "Ceramic Handle & Stainless Steel Blade"
                },
                {
                   "key": "Size",
-                  "value": "36 x 18 x1.6cm (14\" x 7\" x 0.6\")"
+                  "value": "L: 6 x 0.7 inches(Gift box Size: 7.5\" x 6.8\"x 1.4\"  and Color box packaging can be customized according to customer design )"
                },
                {
                   "key": "Features",
-                  "value": ""
+                  "value": "Marble patten"
                },
                {
                   "key": "Sample",
@@ -67,7 +54,7 @@ var productDetails={
                   "value": "1000 SETS"
                }
             ],
-            "Description": "Monogram Acacia Wood Cheese Board With Spreader, Initial A TO Z<br/>multifunction Cheese Plate, Perfect Cheese Platter Slate Board Cheese Serving Board <br/><br/>PERFECTLY PERSONALIZED-- This cheese board crafted of natural Acacia wood and paired with an initial spreader. Monogramming R is laser deep engraved.<br/><br/><br/>Modern and Contemporary Style Serving Board, Use as Cheese Board or Bread Board, functional design accented with letter decoration.<br/><br/>The perfect acacia wood centerpiece board to hold your cheeses, cured meats, olives, dried fruits, nuts, and crackers, Also great for smaller pizzas and flatbreads or your other favorite appetizers. <br/><br/>Handcrafted from sustainably harvested gorgeous acacia wood, known for its unique and natural contrasting patterns and antibacterial properties. Durable and Tested for Food Service and Restaurants (Clean by Hand, not Dishwasher).<br/><br/>Perfect Gift Idea --- The board is made with real acacia wood, high quality, no-mildew again. It is an attractive and practical present for your parents, neighbors, weddings, Thanksgiving, Christmas, housewarmings, birthdays, mother's day, father's day, summer holiday, or other special days."
+            "Description": "Marbled Cheese Knife Set  | Set of 4 Marble-Look Stainless Steel Knives in color Box marble stainless steel kitchen cheese knives accessories sets scraper butter spreader gold cheese knife set <br/> <b>\u25b6</b>This stylish set of 4 cheese knives feature a stainless steel blade and a handcrafted marble-look ceramic handle.  <br/>\u25b6Each knife measures approximately 6 x 0.7 inches / 15 x 2 cm.  <br/><b>\u25b6</b>Each knife in the set has a different blade, making them ideal for both hard and soft cheeses. <br/><b>\u25b6</b>Packing details: 4PCS/SET   <br/>\u25b6<b>cheese spread with the same pattern can be customized</b>  <br/> "
          },
          "ft": [
             {

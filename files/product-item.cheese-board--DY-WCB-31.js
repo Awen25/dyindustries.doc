@@ -21,30 +21,25 @@ var productDetails={
          "bd": {
             "id": "888800031",
             "img": "/images/products/wood-cheese-board/cheese board _DY-WCB-31/1.jpg",
-            "imgs": [
-               {
-                  "src": "/images/products/wood-cheese-board/cheese board _DY-WCB-31/1.jpg",
-                  "alt": "cheese board  DY-WCB-31 1"
-               }
-            ],
+            "imgs": [],
             "title": "cheese board ",
             "sku": "SKU:DY-WCB-31",
             "attar": [
                {
                   "key": "Color",
-                  "value": "Natural wood  & silver "
+                  "value": "Silver / Gold / Rose Gold Marble"
                },
                {
                   "key": "Material",
-                  "value": "stainless steel& Acacia wood "
+                  "value": "Ceramic Handle & Stainless Steel Blade"
                },
                {
                   "key": "Size",
-                  "value": ""
+                  "value": "L: 6 x 0.7 inches(Gift box Size: 7.5\" x 6.8\"x 1.4\"  and Color box packaging can be customized according to customer design )"
                },
                {
                   "key": "Features",
-                  "value": ""
+                  "value": "Marble patten"
                },
                {
                   "key": "Sample",
@@ -59,7 +54,7 @@ var productDetails={
                   "value": "1000 SETS"
                }
             ],
-            "Description": " Cheese Board With Black Slate Blade and 2 Stainless Steel cheese knife Set, Acacia Wood Charcuterie Board and Cheese Serving Platter, Unique Handcrafted Design <br/><br/>CHOOSE QUALITY -  Charcuterie Set is made from strong, durable, and stylish materials that will never fail to impress.<br/><br/>PREMIUM & RELIABLE MATERIALS - Our Charcuterie Board Set is made from beautiful and durable Acacia Wood and comes with steel finished cheese cutlery set and a gorgeous slate. <br/><br/>A PRACTICAL CHARCUTERIE BOARD - The  Cheese Board has a unique drawer that also stores cutlery, saving your storage space and keeping all the needed utensils in one place anytime you need them. The sided handle will make it even easier to move it right on the center of your dinner table!<br/><br/>THE ULTIMATE HOLIDAY GIFT - This beautiful cheese board will have \u201cthe cherry on top\u201d feeling on any table. It can be a centerpiece gift for any occasion! Thanksgiving, Christmas, Mother Day, Father\u2019s day, or New Year - a cheeseboard is your ultimate gift!"
+            "Description": "Marbled Cheese Knife Set  | Set of 4 Marble-Look Stainless Steel Knives in color Box marble stainless steel kitchen cheese knives accessories sets scraper butter spreader gold cheese knife set <br/> <b>\u25b6</b>This stylish set of 4 cheese knives feature a stainless steel blade and a handcrafted marble-look ceramic handle.  <br/>\u25b6Each knife measures approximately 6 x 0.7 inches / 15 x 2 cm.  <br/><b>\u25b6</b>Each knife in the set has a different blade, making them ideal for both hard and soft cheeses. <br/><b>\u25b6</b>Packing details: 4PCS/SET   <br/>\u25b6<b>cheese spread with the same pattern can be customized</b>  <br/> "
          },
          "ft": [
             {

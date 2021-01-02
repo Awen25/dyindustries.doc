@@ -21,30 +21,25 @@ var productDetails={
          "bd": {
             "id": "888400026",
             "img": "/images/products/serving-tray/Serving Tray _DY-ST-26/1.jpg",
-            "imgs": [
-               {
-                  "src": "/images/products/serving-tray/Serving Tray _DY-ST-26/1.jpg",
-                  "alt": "Serving Tray  DY-ST-26 1"
-               }
-            ],
+            "imgs": [],
             "title": "Serving Tray ",
             "sku": "SKU:DY-ST-26",
             "attar": [
                {
                   "key": "Color",
-                  "value": "clear natural "
+                  "value": "Silver / Gold / Rose Gold Marble"
                },
                {
                   "key": "Material",
-                  "value": "Acacia wood & glass"
+                  "value": "Ceramic Handle & Stainless Steel Blade"
                },
                {
                   "key": "Size",
-                  "value": "11\""
+                  "value": "L: 6 x 0.7 inches(Gift box Size: 7.5\" x 6.8\"x 1.4\"  and Color box packaging can be customized according to customer design )"
                },
                {
                   "key": "Features",
-                  "value": ""
+                  "value": "Marble patten"
                },
                {
                   "key": "Sample",
@@ -59,7 +54,7 @@ var productDetails={
                   "value": "1000 SETS"
                }
             ],
-            "Description": "11-inch Rotating Round Acacia Wood Turntable Cake & Cheese Display Stand with Glass Dome Lid<br/><br/>11-inch cake and dessert display stand with acacia wood construction and glass dome lid. <br/>Rotating design allows you to easily serve food to your family, friends, and customers.<br/>Great for displaying cakes, desserts, appetizers, cheeses, hors d'ouveres, and much more.<br/>Ideal for use in bakeries, cafes, parties, weddings, and other social gatherings. "
+            "Description": "Marbled Cheese Knife Set  | Set of 4 Marble-Look Stainless Steel Knives in color Box marble stainless steel kitchen cheese knives accessories sets scraper butter spreader gold cheese knife set <br/> <b>\u25b6</b>This stylish set of 4 cheese knives feature a stainless steel blade and a handcrafted marble-look ceramic handle.  <br/>\u25b6Each knife measures approximately 6 x 0.7 inches / 15 x 2 cm.  <br/><b>\u25b6</b>Each knife in the set has a different blade, making them ideal for both hard and soft cheeses. <br/><b>\u25b6</b>Packing details: 4PCS/SET   <br/>\u25b6<b>cheese spread with the same pattern can be customized</b>  <br/> "
          },
          "ft": [
             {

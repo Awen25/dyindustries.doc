@@ -21,30 +21,25 @@ var productDetails={
          "bd": {
             "id": "888800030",
             "img": "/images/products/wood-cheese-board/cheese board _DY-WCB-30/1.jpg",
-            "imgs": [
-               {
-                  "src": "/images/products/wood-cheese-board/cheese board _DY-WCB-30/1.jpg",
-                  "alt": "cheese board  DY-WCB-30 1"
-               }
-            ],
+            "imgs": [],
             "title": "cheese board ",
             "sku": "SKU:DY-WCB-30",
             "attar": [
                {
                   "key": "Color",
-                  "value": "Natural wood  "
+                  "value": "Silver / Gold / Rose Gold Marble"
                },
                {
                   "key": "Material",
-                  "value": "stainless steel & Acacia wood "
+                  "value": "Ceramic Handle & Stainless Steel Blade"
                },
                {
                   "key": "Size",
-                  "value": "64 x 20.5 x 2CM  ( 25\" x 8\" x 0.8\")    knife: 5.5\" "
+                  "value": "L: 6 x 0.7 inches(Gift box Size: 7.5\" x 6.8\"x 1.4\"  and Color box packaging can be customized according to customer design )"
                },
                {
                   "key": "Features",
-                  "value": ""
+                  "value": "Marble patten"
                },
                {
                   "key": "Sample",
@@ -59,7 +54,7 @@ var productDetails={
                   "value": "1000 SETS"
                }
             ],
-            "Description": "Multifunction antlers  cheese board and Knife Set creative Wood Charcuterie Platter Serving Tray for Wine Cheese Meat Fancy House Warming Gift & Perfect Choice for Gourmets <br/><br/>THE EXCLUSIVE CHOICE FOR SERVING CHEESE: The key to enjoy slices of Italian Ricotta, English Cheddar, or French Vacherin with a glass of wine for holiday entertaining is to have our modern Aacaia cheese board. Bordered by grooves that hold crackers, nuts, or olives and designed with a hidden drawer with three utensils,  antlers shape cheese knife. The crafted tray makes a perfect serving board for entertaining guests.<br/><br/>SPLENDID WITH PREMIUM CRAFTSMANSHIP:  cheese tray is handmade with 100% quality wood material and superior quality. The nonporous surface of this natural cheese board makes the BEST choice for cheese lovers as it doesn\u2019t stain or absorb odors. It\u2019s a super speedy dinner tray for weeknights and spacious to add salty and sweet foods. Do not place in dishwasher. <br/><br/>COMPLETE CUTLERY SET FOR GOOD SLICING: The handy cutting knives that come with this acacia cheese board cut through hard cheeses with minimal effort. They are made of high-quality stainless steel with creative antlers handles that are easy to grip. <br/><br/>AN AWESOME GIFT IDEA: Cheese tray set  makes a great Christmas  gift, we\u2019ve even seen it given as house warming presents, anniversary gifts, Christmas gift, thanksgiving plates, and birthday gifts."
+            "Description": "Marbled Cheese Knife Set  | Set of 4 Marble-Look Stainless Steel Knives in color Box marble stainless steel kitchen cheese knives accessories sets scraper butter spreader gold cheese knife set <br/> <b>\u25b6</b>This stylish set of 4 cheese knives feature a stainless steel blade and a handcrafted marble-look ceramic handle.  <br/>\u25b6Each knife measures approximately 6 x 0.7 inches / 15 x 2 cm.  <br/><b>\u25b6</b>Each knife in the set has a different blade, making them ideal for both hard and soft cheeses. <br/><b>\u25b6</b>Packing details: 4PCS/SET   <br/>\u25b6<b>cheese spread with the same pattern can be customized</b>  <br/> "
          },
          "ft": [
             {

@@ -21,30 +21,25 @@ var productDetails={
          "bd": {
             "id": "888400029",
             "img": "/images/products/serving-tray/Serving Tray _DY-ST-29/1.jpg",
-            "imgs": [
-               {
-                  "src": "/images/products/serving-tray/Serving Tray _DY-ST-29/1.jpg",
-                  "alt": "Serving Tray  DY-ST-29 1"
-               }
-            ],
+            "imgs": [],
             "title": "Serving Tray ",
             "sku": "SKU:DY-ST-29",
             "attar": [
                {
                   "key": "Color",
-                  "value": "Pink "
+                  "value": "Silver / Gold / Rose Gold Marble"
                },
                {
                   "key": "Material",
-                  "value": "Acacia wood & Galvanized iron"
+                  "value": "Ceramic Handle & Stainless Steel Blade"
                },
                {
                   "key": "Size",
-                  "value": "13\""
+                  "value": "L: 6 x 0.7 inches(Gift box Size: 7.5\" x 6.8\"x 1.4\"  and Color box packaging can be customized according to customer design )"
                },
                {
                   "key": "Features",
-                  "value": ""
+                  "value": "Marble patten"
                },
                {
                   "key": "Sample",
@@ -59,7 +54,7 @@ var productDetails={
                   "value": "1000 SETS"
                }
             ],
-            "Description": "Rustic Industrial Farmhouse Chic Two Tiered  Square Tray, pink<br/>PREMIUM QUALITY: Constructed from top quality materials.<br/><br/>ATTRACTIVE DECORATION: A good choice for living room, kitchen, office, hotel, restaurant, bathroom, coffee shop decoration.<br/><br/>STYLISH: Ideal for display on a tabletop or as part of a shelf arrangement.<br/><br/>SECURED PACKAGE: Comes securely packaged with care, makes for a great gift and storage uses, assuring you 100% buying satisfaction. <br/><br/>DIMENSIONS: 15 inches Square x 16 inches Height<br/>Galvanized iron  Industrial Country Tray 2 Tier Display<br/>"
+            "Description": "Marbled Cheese Knife Set  | Set of 4 Marble-Look Stainless Steel Knives in color Box marble stainless steel kitchen cheese knives accessories sets scraper butter spreader gold cheese knife set <br/> <b>\u25b6</b>This stylish set of 4 cheese knives feature a stainless steel blade and a handcrafted marble-look ceramic handle.  <br/>\u25b6Each knife measures approximately 6 x 0.7 inches / 15 x 2 cm.  <br/><b>\u25b6</b>Each knife in the set has a different blade, making them ideal for both hard and soft cheeses. <br/><b>\u25b6</b>Packing details: 4PCS/SET   <br/>\u25b6<b>cheese spread with the same pattern can be customized</b>  <br/> "
          },
          "ft": [
             {

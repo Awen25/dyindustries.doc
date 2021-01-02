@@ -21,30 +21,25 @@ var productDetails={
          "bd": {
             "id": "88840006",
             "img": "/images/products/serving-tray/Serving Tray _DY-ST-06/1.jpg",
-            "imgs": [
-               {
-                  "src": "/images/products/serving-tray/Serving Tray _DY-ST-06/1.jpg",
-                  "alt": "Serving Tray  DY-ST-06 1"
-               }
-            ],
+            "imgs": [],
             "title": "Serving Tray ",
             "sku": "SKU:DY-ST-06",
             "attar": [
                {
                   "key": "Color",
-                  "value": "Natural Brown"
+                  "value": "Silver / Gold / Rose Gold Marble"
                },
                {
                   "key": "Material",
-                  "value": "Acacia wood & zinc alloy"
+                  "value": "Ceramic Handle & Stainless Steel Blade"
                },
                {
                   "key": "Size",
-                  "value": "14\" x 9.4\" x 3.3\""
+                  "value": "L: 6 x 0.7 inches(Gift box Size: 7.5\" x 6.8\"x 1.4\"  and Color box packaging can be customized according to customer design )"
                },
                {
                   "key": "Features",
-                  "value": ""
+                  "value": "Marble patten"
                },
                {
                   "key": "Sample",
@@ -59,7 +54,7 @@ var productDetails={
                   "value": "1000 SETS"
                }
             ],
-            "Description": "Wood Serving Tray with resin handle  \u2013Wooden Breakfast Trays For Kitchen, Dining Room, or Living Room \u2013 Farmhouse Platter w/Handles -Acacia wood <br/><br/>IMPRESS YOUR GUESTS! \u2013 Whether It\u2019s Breakfast In Bed With Your Spouse or Entertaining Guests In The Dining Room Or Kitchen, These High Quality resin Decorative Wooden Nestable Stacking Trays Are Perfect For Serving Snacks & Appetizers At Your Party, Coffee For Morning Brunch, or Alcohol For an Evening Rendezvous.<br/> <br/>EASY TO CARRY \u2013 All trays made of Extra Thick Durable Wood. These Serving Trays Are Both Durable and Light Weight. The Thick and Sturdy marble resin Handles Make Them Easy To Carry And Balance Multiple Dishes.<br/><br/>USE FOR SERVING OR HOME DECOR \u2013 While These Butler Trays Are Great For Serving Guests, They Also Make a Great Decorative Piece For The Home! Use Them On The Dining Room Table or Hutch, As a Stylish Addition To Your Coffee Table.<br/><br/><br/>"
+            "Description": "Marbled Cheese Knife Set  | Set of 4 Marble-Look Stainless Steel Knives in color Box marble stainless steel kitchen cheese knives accessories sets scraper butter spreader gold cheese knife set <br/> <b>\u25b6</b>This stylish set of 4 cheese knives feature a stainless steel blade and a handcrafted marble-look ceramic handle.  <br/>\u25b6Each knife measures approximately 6 x 0.7 inches / 15 x 2 cm.  <br/><b>\u25b6</b>Each knife in the set has a different blade, making them ideal for both hard and soft cheeses. <br/><b>\u25b6</b>Packing details: 4PCS/SET   <br/>\u25b6<b>cheese spread with the same pattern can be customized</b>  <br/> "
          },
          "ft": [
             {

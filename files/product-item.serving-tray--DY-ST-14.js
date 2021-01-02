@@ -21,30 +21,25 @@ var productDetails={
          "bd": {
             "id": "888400014",
             "img": "/images/products/serving-tray/Serving Tray _DY-ST-14/1.jpg",
-            "imgs": [
-               {
-                  "src": "/images/products/serving-tray/Serving Tray _DY-ST-14/1.jpg",
-                  "alt": "Serving Tray  DY-ST-14 1"
-               }
-            ],
+            "imgs": [],
             "title": "Serving Tray ",
             "sku": "SKU:DY-ST-14",
             "attar": [
                {
                   "key": "Color",
-                  "value": "Natural green"
+                  "value": "Silver / Gold / Rose Gold Marble"
                },
                {
                   "key": "Material",
-                  "value": "Galvanized iron"
+                  "value": "Ceramic Handle & Stainless Steel Blade"
                },
                {
                   "key": "Size",
-                  "value": "17\" x 12\" x 2\""
+                  "value": "L: 6 x 0.7 inches(Gift box Size: 7.5\" x 6.8\"x 1.4\"  and Color box packaging can be customized according to customer design )"
                },
                {
                   "key": "Features",
-                  "value": ""
+                  "value": "Marble patten"
                },
                {
                   "key": "Sample",
@@ -59,7 +54,7 @@ var productDetails={
                   "value": "1000 SETS"
                }
             ],
-            "Description": "Rustic Serving Tray, Large oval Metal Base with Handles, Galvanized metal, Vintage Farmhouse Decoration for Modern Homes or Kitchens<br/><br/>Metal Serving Tray \u2013 Beautiful, stylish, and versatile this round serving tray is ideal for serving up appetizers, carrying hot dishware, or displaying dining room decor.<br/>Rustic  Galvanized iron \u2013 We use high quality Galvanized aluminum construction with handles to give you the ideal balance of durability, functionality, and classic farmhouse style.<br/>Premium Wood Handles \u2013 Each steel serving tray features handles that make it easier to carry in the kitchen, dining room, or to your backyard barbecue.<br/>Decorative Home Decor \u2013 Along with carrying food or meals this large serving tray can also be used as a base for displaying flower pots, candles, vases, and more.<br/>Deeper Wall Design \u2013 These metal trays also feature a 2-inch deep wall to keep things from sliding off and to create more beautiful depth when displaying home amenities.<br/>"
+            "Description": "Marbled Cheese Knife Set  | Set of 4 Marble-Look Stainless Steel Knives in color Box marble stainless steel kitchen cheese knives accessories sets scraper butter spreader gold cheese knife set <br/> <b>\u25b6</b>This stylish set of 4 cheese knives feature a stainless steel blade and a handcrafted marble-look ceramic handle.  <br/>\u25b6Each knife measures approximately 6 x 0.7 inches / 15 x 2 cm.  <br/><b>\u25b6</b>Each knife in the set has a different blade, making them ideal for both hard and soft cheeses. <br/><b>\u25b6</b>Packing details: 4PCS/SET   <br/>\u25b6<b>cheese spread with the same pattern can be customized</b>  <br/> "
          },
          "ft": [
             {

@@ -21,30 +21,25 @@ var productDetails={
          "bd": {
             "id": "888800032",
             "img": "/images/products/wood-cheese-board/cheese board _DY-WCB-32/1.jpg",
-            "imgs": [
-               {
-                  "src": "/images/products/wood-cheese-board/cheese board _DY-WCB-32/1.jpg",
-                  "alt": "cheese board  DY-WCB-32 1"
-               }
-            ],
+            "imgs": [],
             "title": "cheese board ",
             "sku": "SKU:DY-WCB-32",
             "attar": [
                {
                   "key": "Color",
-                  "value": "Natural wood  & silver "
+                  "value": "Silver / Gold / Rose Gold Marble"
                },
                {
                   "key": "Material",
-                  "value": "zinc alloy & Acacia wood "
+                  "value": "Ceramic Handle & Stainless Steel Blade"
                },
                {
                   "key": "Size",
-                  "value": "13\" x 8.5\" x 0.6\""
+                  "value": "L: 6 x 0.7 inches(Gift box Size: 7.5\" x 6.8\"x 1.4\"  and Color box packaging can be customized according to customer design )"
                },
                {
                   "key": "Features",
-                  "value": ""
+                  "value": "Marble patten"
                },
                {
                   "key": "Sample",
@@ -59,7 +54,7 @@ var productDetails={
                   "value": "1000 SETS"
                }
             ],
-            "Description": "Metal Thanksgiving Turkey cheese board, Cheese Paddle Board, Bread and Crackers Platter for Serving and Minor Food Prepare with Handle<br/><br/>Creative lifelike Turkey board for serving a spectacular centerpiece of roasted turkey at family gatherings and holiday meals ALSO for serving or entertaining to hold your pizza, crackers, bread, Cheese.  <br/><br/> Perfect Gift Idea: The board is made with real Acacia wood and zinc alloy, high quality, no-mildew again. It is an attractive and practical present for your parents, neighbors, weddings, Thanksgiving, Christmas, housewarmings, birthdays, mother's day, father's day, or other special days  Box perfect for your Thanksgiving or Christmas Hostess. "
+            "Description": "Marbled Cheese Knife Set  | Set of 4 Marble-Look Stainless Steel Knives in color Box marble stainless steel kitchen cheese knives accessories sets scraper butter spreader gold cheese knife set <br/> <b>\u25b6</b>This stylish set of 4 cheese knives feature a stainless steel blade and a handcrafted marble-look ceramic handle.  <br/>\u25b6Each knife measures approximately 6 x 0.7 inches / 15 x 2 cm.  <br/><b>\u25b6</b>Each knife in the set has a different blade, making them ideal for both hard and soft cheeses. <br/><b>\u25b6</b>Packing details: 4PCS/SET   <br/>\u25b6<b>cheese spread with the same pattern can be customized</b>  <br/> "
          },
          "ft": [
             {

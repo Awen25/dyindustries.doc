@@ -21,30 +21,25 @@ var productDetails={
          "bd": {
             "id": "888400023",
             "img": "/images/products/serving-tray/Serving Tray _DY-ST-23/1.jpg",
-            "imgs": [
-               {
-                  "src": "/images/products/serving-tray/Serving Tray _DY-ST-23/1.jpg",
-                  "alt": "Serving Tray  DY-ST-23 1"
-               }
-            ],
+            "imgs": [],
             "title": "Serving Tray ",
             "sku": "SKU:DY-ST-23",
             "attar": [
                {
                   "key": "Color",
-                  "value": "white, sliver"
+                  "value": "Silver / Gold / Rose Gold Marble"
                },
                {
                   "key": "Material",
-                  "value": "Marble"
+                  "value": "Ceramic Handle & Stainless Steel Blade"
                },
                {
                   "key": "Size",
-                  "value": "10.5\" x 10.5\" x 0.5\"    9\" x 9\" x 0.5\""
+                  "value": "L: 6 x 0.7 inches(Gift box Size: 7.5\" x 6.8\"x 1.4\"  and Color box packaging can be customized according to customer design )"
                },
                {
                   "key": "Features",
-                  "value": ""
+                  "value": "Marble patten"
                },
                {
                   "key": "Sample",
@@ -59,7 +54,7 @@ var productDetails={
                   "value": "1000 SETS"
                }
             ],
-            "Description": "2 Tier Round Dessert Cake Stand, Marbel serving tray /platers/stand  (Flower-Shaped Handle - silver)<br/><br/>This 2 tier hexagonal dessert cake stand has a unique look that is unmatched in the market. It provides an exclusive look for your cakes and cupcake when you present them during parties, birthdays, or special events.<br/><br/>DURABLE AND ELEGANT CONCEPT \u2013 This serving stand does not only look sophisticated, they are also durable and made from high-quality marble material. Its sleek white surface and goldenrod offer a delicate and rustic feel that will add elegance to any table you place this serving tray on.<br/> PERFECT HOME D\u00c9COR OR PARTY TABLE ACCENT \u2013 Looking for an additional accent piece that you can use not only on grand events but also when you just want to add class to your home? Then these cake plates and cake stands are what you are looking for. Your home and party will definitely stand out.<br/> EASY TO USE AND EASY TO CLEAN  \u2013 With an easy to assemble and easy to use concept, you will want to use this cake stand when you have guests at home or even when you just want to level up tea time with the family. Plus, they are easy to clean and store so, you won\u2019t have any problem preparing and presenting biscuits, cupcakes, and other pastries no matter what the occasion may be.<br/>"
+            "Description": "Marbled Cheese Knife Set  | Set of 4 Marble-Look Stainless Steel Knives in color Box marble stainless steel kitchen cheese knives accessories sets scraper butter spreader gold cheese knife set <br/> <b>\u25b6</b>This stylish set of 4 cheese knives feature a stainless steel blade and a handcrafted marble-look ceramic handle.  <br/>\u25b6Each knife measures approximately 6 x 0.7 inches / 15 x 2 cm.  <br/><b>\u25b6</b>Each knife in the set has a different blade, making them ideal for both hard and soft cheeses. <br/><b>\u25b6</b>Packing details: 4PCS/SET   <br/>\u25b6<b>cheese spread with the same pattern can be customized</b>  <br/> "
          },
          "ft": [
             {

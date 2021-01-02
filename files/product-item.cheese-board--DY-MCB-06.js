@@ -21,34 +21,25 @@ var productDetails={
          "bd": {
             "id": "88830006",
             "img": "/images/products/marble-cheese-board/cheese board _DY-MCB-06/1.jpg",
-            "imgs": [
-               {
-                  "src": "/images/products/marble-cheese-board/cheese board _DY-MCB-06/1.jpg",
-                  "alt": "cheese board  DY-MCB-06 1"
-               },
-               {
-                  "src": "/images/products/marble-cheese-board/cheese board _DY-MCB-06/2.jpg",
-                  "alt": "cheese board  DY-MCB-06 2"
-               }
-            ],
+            "imgs": [],
             "title": "cheese board ",
             "sku": "SKU:DY-MCB-06",
             "attar": [
                {
                   "key": "Color",
-                  "value": "Natural "
+                  "value": "Silver / Gold / Rose Gold Marble"
                },
                {
                   "key": "Material",
-                  "value": "Acacia wood & Marble & stainless steel"
+                  "value": "Ceramic Handle & Stainless Steel Blade"
                },
                {
                   "key": "Size",
-                  "value": "11.8\"*11.8*0.6\""
+                  "value": "L: 6 x 0.7 inches(Gift box Size: 7.5\" x 6.8\"x 1.4\"  and Color box packaging can be customized according to customer design )"
                },
                {
                   "key": "Features",
-                  "value": ""
+                  "value": "Marble patten"
                },
                {
                   "key": "Sample",
@@ -63,7 +54,7 @@ var productDetails={
                   "value": "1000 SETS"
                }
             ],
-            "Description": "White  Pumpkin Charcuterie Board with a cheese spreader  <br/><br/>HONEST MATERIALS: The pumpkin charcuterie board is composed of Acacia wood, creating it\u2019s a rustic and timeless rectangle shape.<br/><br/>Convenience & Style \u2013 Marble won\u2019t absorb smells like wood. Multipurpose marble serving platter can be used as a tray for meats, cheeses, crackers, fruits & more for an elegant charcuterie. No odors linger to affect your foods. Proudly display the board and make a unique style for your kitchen!<br/>Easy To Clean - Clean with a gentle hand wash with soap and water.<br/><br/><br/>REVERSIBLE: Using a beautiful piece of reclaimed wood for serving is an art form. Use the textured side to showcase the wood for a rustic chic look or flip it to its smooth slatted side for a sophisticated modern take.<br/><br/>VERSATILE: Our pumpkin charcuterie serving boards fit handsomely into any kitchen, no matter the aesthetic. The beauty of the natural wood board can evoke rustic and traditional moods.<br/>"
+            "Description": "Marbled Cheese Knife Set  | Set of 4 Marble-Look Stainless Steel Knives in color Box marble stainless steel kitchen cheese knives accessories sets scraper butter spreader gold cheese knife set <br/> <b>\u25b6</b>This stylish set of 4 cheese knives feature a stainless steel blade and a handcrafted marble-look ceramic handle.  <br/>\u25b6Each knife measures approximately 6 x 0.7 inches / 15 x 2 cm.  <br/><b>\u25b6</b>Each knife in the set has a different blade, making them ideal for both hard and soft cheeses. <br/><b>\u25b6</b>Packing details: 4PCS/SET   <br/>\u25b6<b>cheese spread with the same pattern can be customized</b>  <br/> "
          },
          "ft": [
             {

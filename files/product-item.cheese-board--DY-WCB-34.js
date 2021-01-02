@@ -21,34 +21,25 @@ var productDetails={
          "bd": {
             "id": "888800034",
             "img": "/images/products/wood-cheese-board/cheese board _DY-WCB-34/1.jpg",
-            "imgs": [
-               {
-                  "src": "/images/products/wood-cheese-board/cheese board _DY-WCB-34/1.jpg",
-                  "alt": "cheese board  DY-WCB-34 1"
-               },
-               {
-                  "src": "/images/products/wood-cheese-board/cheese board _DY-WCB-34/2.jpg",
-                  "alt": "cheese board  DY-WCB-34 2"
-               }
-            ],
+            "imgs": [],
             "title": "cheese board ",
             "sku": "SKU:DY-WCB-34",
             "attar": [
                {
                   "key": "Color",
-                  "value": "Natural wood  "
+                  "value": "Silver / Gold / Rose Gold Marble"
                },
                {
                   "key": "Material",
-                  "value": "ceramic & Acacia wood "
+                  "value": "Ceramic Handle & Stainless Steel Blade"
                },
                {
                   "key": "Size",
-                  "value": ""
+                  "value": "L: 6 x 0.7 inches(Gift box Size: 7.5\" x 6.8\"x 1.4\"  and Color box packaging can be customized according to customer design )"
                },
                {
                   "key": "Features",
-                  "value": ""
+                  "value": "Marble patten"
                },
                {
                   "key": "Sample",
@@ -63,7 +54,7 @@ var productDetails={
                   "value": "1000 SETS"
                }
             ],
-            "Description": "Cheese Cutting Board Charcuterie Platter Set and Cheese Serving Platter. Perfect Meat/Cheese Board, Ceramic Bowls, Cheese Tray, and Wine Server Plate<br/><br/>Premium Quality, Timeless Style \u2013 Manufactured using only the finest quality materials, the new wine and cheese board not only looks good but will stand the test of time. Where poor quality wood cheese boards flex and crack with regular use, the breadboard uses premium Acacia wood, which is tough, strong, and beautifully grained. The ceramic bowls are completely removable for effortless maintenance and elegance.<br/><br/>Space-Saving Innovation \u2013  this fruit and cheese platter to be practical even in small kitchens.  perfect for serving wines paired with your delicious cheeses, meats, nuts, and other creations.<br/>.<br/>The Ultimate Cheese Lovers Gift \u2013 Our premium cheese tray is the perfect gift this holiday season. Complete with a luxury case, make someone\u2019s Christmas extra-cheesy this year and give the gift, With everything a cheese lover could want in one fantastic kit, soon your friends and family will be whipping-up a smorgasbord of delights for you all to enjoy!<br/>"
+            "Description": "Marbled Cheese Knife Set  | Set of 4 Marble-Look Stainless Steel Knives in color Box marble stainless steel kitchen cheese knives accessories sets scraper butter spreader gold cheese knife set <br/> <b>\u25b6</b>This stylish set of 4 cheese knives feature a stainless steel blade and a handcrafted marble-look ceramic handle.  <br/>\u25b6Each knife measures approximately 6 x 0.7 inches / 15 x 2 cm.  <br/><b>\u25b6</b>Each knife in the set has a different blade, making them ideal for both hard and soft cheeses. <br/><b>\u25b6</b>Packing details: 4PCS/SET   <br/>\u25b6<b>cheese spread with the same pattern can be customized</b>  <br/> "
          },
          "ft": [
             {

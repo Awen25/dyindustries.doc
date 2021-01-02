@@ -21,30 +21,25 @@ var productDetails={
          "bd": {
             "id": "888400016",
             "img": "/images/products/serving-tray/Serving Tray _DY-ST-16/1.jpg",
-            "imgs": [
-               {
-                  "src": "/images/products/serving-tray/Serving Tray _DY-ST-16/1.jpg",
-                  "alt": "Serving Tray  DY-ST-16 1"
-               }
-            ],
+            "imgs": [],
             "title": "Serving Tray ",
             "sku": "SKU:DY-ST-16",
             "attar": [
                {
                   "key": "Color",
-                  "value": "Natural, gold"
+                  "value": "Silver / Gold / Rose Gold Marble"
                },
                {
                   "key": "Material",
-                  "value": "Acacia wood & iron"
+                  "value": "Ceramic Handle & Stainless Steel Blade"
                },
                {
                   "key": "Size",
-                  "value": "11.7\" x 11.7\" x 11.5\""
+                  "value": "L: 6 x 0.7 inches(Gift box Size: 7.5\" x 6.8\"x 1.4\"  and Color box packaging can be customized according to customer design )"
                },
                {
                   "key": "Features",
-                  "value": ""
+                  "value": "Marble patten"
                },
                {
                   "key": "Sample",
@@ -59,7 +54,7 @@ var productDetails={
                   "value": "1000 SETS"
                }
             ],
-            "Description": "Creative  Acacia Wood with round ball Handle Two-Tier Tray, Decorative Organizer for Kitchen Counter Top, Dining Room Table<br/>Beautiful two-tier display stands to store fruits and snacks or showcase cupcakes or flowers.<br/><br/>The large tray is 11.7\" wide with 4\" between center pole and side allowing larger items to be placed on the bottom.<br/>The small tray is 7.7\" wide with 3\" between center pole and side providing ample space for a variety of items.<br/>Save space on the counter by placing items on this 2-tier tray<br/>Handle allows for easy transportation from counter to table or room to room. "
+            "Description": "Marbled Cheese Knife Set  | Set of 4 Marble-Look Stainless Steel Knives in color Box marble stainless steel kitchen cheese knives accessories sets scraper butter spreader gold cheese knife set <br/> <b>\u25b6</b>This stylish set of 4 cheese knives feature a stainless steel blade and a handcrafted marble-look ceramic handle.  <br/>\u25b6Each knife measures approximately 6 x 0.7 inches / 15 x 2 cm.  <br/><b>\u25b6</b>Each knife in the set has a different blade, making them ideal for both hard and soft cheeses. <br/><b>\u25b6</b>Packing details: 4PCS/SET   <br/>\u25b6<b>cheese spread with the same pattern can be customized</b>  <br/> "
          },
          "ft": [
             {

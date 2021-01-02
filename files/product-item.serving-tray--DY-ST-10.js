@@ -21,30 +21,25 @@ var productDetails={
          "bd": {
             "id": "888400010",
             "img": "/images/products/serving-tray/Serving Tray _DY-ST-10/1.jpg",
-            "imgs": [
-               {
-                  "src": "/images/products/serving-tray/Serving Tray _DY-ST-10/1.jpg",
-                  "alt": "Serving Tray  DY-ST-10 1"
-               }
-            ],
+            "imgs": [],
             "title": "Serving Tray ",
             "sku": "SKU:DY-ST-10",
             "attar": [
                {
                   "key": "Color",
-                  "value": "Natural Brown"
+                  "value": "Silver / Gold / Rose Gold Marble"
                },
                {
                   "key": "Material",
-                  "value": "Acacia wood & Galvanized iron"
+                  "value": "Ceramic Handle & Stainless Steel Blade"
                },
                {
                   "key": "Size",
-                  "value": "20\" x 17.8\" x 1.8\""
+                  "value": "L: 6 x 0.7 inches(Gift box Size: 7.5\" x 6.8\"x 1.4\"  and Color box packaging can be customized according to customer design )"
                },
                {
                   "key": "Features",
-                  "value": ""
+                  "value": "Marble patten"
                },
                {
                   "key": "Sample",
@@ -59,7 +54,7 @@ var productDetails={
                   "value": "1000 SETS"
                }
             ],
-            "Description": "Rustic Serving Tray, Large Round wood  Base with Metal Carry Handles, Galvanized metal, Vintage Farmhouse Decoration Multi-Purpose  Trays with stainless steel Handles<br/><br/>These premium trays are made from a high-quality material that lends them a sleek look. Non-porous; won\u2019t stain, or absorb food odors and flavors.<br/><br/>Matching set of two nestings round galvanized Aluminum trays with stainless steel handles<br/><br/>MULTI-USE: Wooden  Serving Tray with Handles Kitchen Multi-Purpose Serveware for Coffee Table, Dinner, Breakfast, Food, Farmhouse Decor,  also use as   Kitchen counter, serving tray, plant tray, shelf displays, coffee table, centerpiece, Christmas and seasonal arrangements, picnics, entertaining and events<br/><br/>"
+            "Description": "Marbled Cheese Knife Set  | Set of 4 Marble-Look Stainless Steel Knives in color Box marble stainless steel kitchen cheese knives accessories sets scraper butter spreader gold cheese knife set <br/> <b>\u25b6</b>This stylish set of 4 cheese knives feature a stainless steel blade and a handcrafted marble-look ceramic handle.  <br/>\u25b6Each knife measures approximately 6 x 0.7 inches / 15 x 2 cm.  <br/><b>\u25b6</b>Each knife in the set has a different blade, making them ideal for both hard and soft cheeses. <br/><b>\u25b6</b>Packing details: 4PCS/SET   <br/>\u25b6<b>cheese spread with the same pattern can be customized</b>  <br/> "
          },
          "ft": [
             {

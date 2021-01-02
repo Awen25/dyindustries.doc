@@ -21,30 +21,25 @@ var productDetails={
          "bd": {
             "id": "888800023",
             "img": "/images/products/wood-cheese-board/cheese board _DY-WCB-23/1.jpg",
-            "imgs": [
-               {
-                  "src": "/images/products/wood-cheese-board/cheese board _DY-WCB-23/1.jpg",
-                  "alt": "cheese board  DY-WCB-23 1"
-               }
-            ],
+            "imgs": [],
             "title": "cheese board ",
             "sku": "SKU:DY-WCB-23",
             "attar": [
                {
                   "key": "Color",
-                  "value": "Natural wood  "
+                  "value": "Silver / Gold / Rose Gold Marble"
                },
                {
                   "key": "Material",
-                  "value": "Acacia wood "
+                  "value": "Ceramic Handle & Stainless Steel Blade"
                },
                {
                   "key": "Size",
-                  "value": "11\" x 6\" x 0.6\""
+                  "value": "L: 6 x 0.7 inches(Gift box Size: 7.5\" x 6.8\"x 1.4\"  and Color box packaging can be customized according to customer design )"
                },
                {
                   "key": "Features",
-                  "value": ""
+                  "value": "Marble patten"
                },
                {
                   "key": "Sample",
@@ -59,7 +54,7 @@ var productDetails={
                   "value": "1000 SETS"
                }
             ],
-            "Description": "Sleigh Shaped Cheese and Charcuterie Board, Perfect gift for Christmas <br/><br/>The lifelike patterns of deer and Santa Claus make your cheeseboard more special and interesting and become one of the topics of dinner parties. <br/><br/>You can use this Sleigh-shaped serving board for a variety of entertaining purposes such as for appetizers or as the entree serving piece. Load it with sweets for a holiday feast with friends.<br/><br/>Thanks to the cute appeal of this meat and cheese serving tray that already has a spreader, simply wrap it up and give it as a gift for any holiday or occasion."
+            "Description": "Marbled Cheese Knife Set  | Set of 4 Marble-Look Stainless Steel Knives in color Box marble stainless steel kitchen cheese knives accessories sets scraper butter spreader gold cheese knife set <br/> <b>\u25b6</b>This stylish set of 4 cheese knives feature a stainless steel blade and a handcrafted marble-look ceramic handle.  <br/>\u25b6Each knife measures approximately 6 x 0.7 inches / 15 x 2 cm.  <br/><b>\u25b6</b>Each knife in the set has a different blade, making them ideal for both hard and soft cheeses. <br/><b>\u25b6</b>Packing details: 4PCS/SET   <br/>\u25b6<b>cheese spread with the same pattern can be customized</b>  <br/> "
          },
          "ft": [
             {

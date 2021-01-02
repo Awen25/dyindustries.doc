@@ -21,34 +21,25 @@ var productDetails={
          "bd": {
             "id": "888800028",
             "img": "/images/products/wood-cheese-board/cheese board _DY-WCB-28/1.jpg",
-            "imgs": [
-               {
-                  "src": "/images/products/wood-cheese-board/cheese board _DY-WCB-28/1.jpg",
-                  "alt": "cheese board  DY-WCB-28 1"
-               },
-               {
-                  "src": "/images/products/wood-cheese-board/cheese board _DY-WCB-28/2.jpg",
-                  "alt": "cheese board  DY-WCB-28 2"
-               }
-            ],
+            "imgs": [],
             "title": "cheese board ",
             "sku": "SKU:DY-WCB-28",
             "attar": [
                {
                   "key": "Color",
-                  "value": "Natural wood, black, white"
+                  "value": "Silver / Gold / Rose Gold Marble"
                },
                {
                   "key": "Material",
-                  "value": "zinc alloy & Acacia wood "
+                  "value": "Ceramic Handle & Stainless Steel Blade"
                },
                {
                   "key": "Size",
-                  "value": "30 x 21.5 x 1.8 cm ( 11.8\" x 8.5\" x 0.7\")    knife: 16 x 5 x 0.5cm (6.3\" x 2\" x 0.2\") "
+                  "value": "L: 6 x 0.7 inches(Gift box Size: 7.5\" x 6.8\"x 1.4\"  and Color box packaging can be customized according to customer design )"
                },
                {
                   "key": "Features",
-                  "value": ""
+                  "value": "Marble patten"
                },
                {
                   "key": "Sample",
@@ -63,7 +54,7 @@ var productDetails={
                   "value": "1000 SETS"
                }
             ],
-            "Description": "Plaid Cheese Board and Knife Set, Wood Cutting Board, Fashion Checks Pattern Retro Style Grid Composition, Decorative  Cutting and Serving Board, black and white  <br/><br/>FOOD SAFE Printing used to decorate this Acacia large wood cheese board used as a serving platter, complete with cheese knife, ideal charcuterie boards, wood serving board. 16in x 12in a themed teardrop shape.<br/><br/>VERSATILE DESIGN - This board allows you to use it as a cutting board or as a serving platter for uses such as cheese platters, cheese plates, meat and cheese board, a serving board for anything really including even a bathroom display. Conveniently designed makes easy, single-handed serving a breeze.<br/><br/>PERFECT GIFT - Comes in a beautifully packaged gift box ready for a present for yourself, a friend, or a loved one. Ideal for all occasions.<br/><br/>ENTERTAINERS DELIGHT - Giving you the perfect setting for your pre-meal appetizers or cheese and wine as you host your family and friends. Packaged in a beautiful gift box with a stylish cheese knife."
+            "Description": "Marbled Cheese Knife Set  | Set of 4 Marble-Look Stainless Steel Knives in color Box marble stainless steel kitchen cheese knives accessories sets scraper butter spreader gold cheese knife set <br/> <b>\u25b6</b>This stylish set of 4 cheese knives feature a stainless steel blade and a handcrafted marble-look ceramic handle.  <br/>\u25b6Each knife measures approximately 6 x 0.7 inches / 15 x 2 cm.  <br/><b>\u25b6</b>Each knife in the set has a different blade, making them ideal for both hard and soft cheeses. <br/><b>\u25b6</b>Packing details: 4PCS/SET   <br/>\u25b6<b>cheese spread with the same pattern can be customized</b>  <br/> "
          },
          "ft": [
             {

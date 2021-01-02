@@ -21,30 +21,25 @@ var productDetails={
          "bd": {
             "id": "88840005",
             "img": "/images/products/serving-tray/Serving Tray _DY-ST-05/1.jpg",
-            "imgs": [
-               {
-                  "src": "/images/products/serving-tray/Serving Tray _DY-ST-05/1.jpg",
-                  "alt": "Serving Tray  DY-ST-05 1"
-               }
-            ],
+            "imgs": [],
             "title": "Serving Tray ",
             "sku": "SKU:DY-ST-05",
             "attar": [
                {
                   "key": "Color",
-                  "value": "Natural Brown"
+                  "value": "Silver / Gold / Rose Gold Marble"
                },
                {
                   "key": "Material",
-                  "value": "Acacia wood & zinc alloy"
+                  "value": "Ceramic Handle & Stainless Steel Blade"
                },
                {
                   "key": "Size",
-                  "value": "15.8\" x 11.8\" x 1\""
+                  "value": "L: 6 x 0.7 inches(Gift box Size: 7.5\" x 6.8\"x 1.4\"  and Color box packaging can be customized according to customer design )"
                },
                {
                   "key": "Features",
-                  "value": ""
+                  "value": "Marble patten"
                },
                {
                   "key": "Sample",
@@ -59,7 +54,7 @@ var productDetails={
                   "value": "1000 SETS"
                }
             ],
-            "Description": "Wooden Rectangular Platter   cactus - Acacia Wooden Serving Tray, Cheese Platter, Appetizer Board for Crackers, Snacks,  Party Essentials<br/><br/>Material - It is made from a combination of wood and zinc alloy. Perfect for weekend nights that demand a glass of wine with a cheese platter.<br/>Design - This rustic wooden platter comes with two embellished Palm trees on both sides, ideal for serving delicious appetizers. Be the host with the most, with this versatile platter.<br/>Usage - Plate your favorite snacks, be it cheese, crackers, or cured meat, on this rustic wooden platter. Pair it with our bar essentials and other wooden accessories.<br/>Size (L*W*H) - 15.8x11.8x1.0 inches - to hold all your delicious food.<br/>Care Instructions - Hand wash it with a mild liquid detergent in cold water and then towel dry instantly. We recommend using this platter for dry to semi-dry food.<br/><br/><br/><br/>"
+            "Description": "Marbled Cheese Knife Set  | Set of 4 Marble-Look Stainless Steel Knives in color Box marble stainless steel kitchen cheese knives accessories sets scraper butter spreader gold cheese knife set <br/> <b>\u25b6</b>This stylish set of 4 cheese knives feature a stainless steel blade and a handcrafted marble-look ceramic handle.  <br/>\u25b6Each knife measures approximately 6 x 0.7 inches / 15 x 2 cm.  <br/><b>\u25b6</b>Each knife in the set has a different blade, making them ideal for both hard and soft cheeses. <br/><b>\u25b6</b>Packing details: 4PCS/SET   <br/>\u25b6<b>cheese spread with the same pattern can be customized</b>  <br/> "
          },
          "ft": [
             {

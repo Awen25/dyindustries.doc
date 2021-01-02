@@ -21,30 +21,25 @@ var productDetails={
          "bd": {
             "id": "888800015",
             "img": "/images/products/wood-cheese-board/cheese board _DY-WCB-15/1.jpg",
-            "imgs": [
-               {
-                  "src": "/images/products/wood-cheese-board/cheese board _DY-WCB-15/1.jpg",
-                  "alt": "cheese board  DY-WCB-15 1"
-               }
-            ],
+            "imgs": [],
             "title": "cheese board ",
             "sku": "SKU:DY-WCB-15",
             "attar": [
                {
                   "key": "Color",
-                  "value": "Natural wood  / copper "
+                  "value": "Silver / Gold / Rose Gold Marble"
                },
                {
                   "key": "Material",
-                  "value": "Acacia wood  & Metal "
+                  "value": "Ceramic Handle & Stainless Steel Blade"
                },
                {
                   "key": "Size",
-                  "value": "14 x 14 x 1.5cm "
+                  "value": "L: 6 x 0.7 inches(Gift box Size: 7.5\" x 6.8\"x 1.4\"  and Color box packaging can be customized according to customer design )"
                },
                {
                   "key": "Features",
-                  "value": ""
+                  "value": "Marble patten"
                },
                {
                   "key": "Sample",
@@ -59,7 +54,7 @@ var productDetails={
                   "value": "1000 SETS"
                }
             ],
-            "Description": "Square Cheeseboard, Perfect for Hot Cocoa Charcuterie - Also includes a Guide to Best Wine and Cheese Pairings (14 Inch, Extra Large,  Copper)<br/><br/>DESIGNED TO SERVE WITH STYLE: Serve up style and sophistication at your next cocktail party. Blending natural wood grain with trendy brushed copper elements - it\u2019s the perfect serving platter to showcase your favorite cheese and meat pairings. Our wood serving board has enough room to fit wedges of your favorite cheeses, fruit slices, select cold cuts, and crackers. <br/><br/>CHARCUTERIE BOARD ESSENTIALS:  Cheese Board Set comes with a 14-inch diameter Square wood tray,  the copper handles easy to hold, and hung as a kitchen decoration as well.<br/><br/>HIGH-QUALITY CONSTRUCTION FROM SUSTAINABLE MATERIALS: The cheese platter is made with 100% sustainable Acacia wood hardwood. The cheese board set is naturally water-resistant and won\u2019t warp, unlike bamboo cheeseboard products. <br/><br/>GIFT FOR ANY OCCASION: The ideal gift for the ultimate foodie.  Cheese Board for a unique wedding present or house warming present."
+            "Description": "Marbled Cheese Knife Set  | Set of 4 Marble-Look Stainless Steel Knives in color Box marble stainless steel kitchen cheese knives accessories sets scraper butter spreader gold cheese knife set <br/> <b>\u25b6</b>This stylish set of 4 cheese knives feature a stainless steel blade and a handcrafted marble-look ceramic handle.  <br/>\u25b6Each knife measures approximately 6 x 0.7 inches / 15 x 2 cm.  <br/><b>\u25b6</b>Each knife in the set has a different blade, making them ideal for both hard and soft cheeses. <br/><b>\u25b6</b>Packing details: 4PCS/SET   <br/>\u25b6<b>cheese spread with the same pattern can be customized</b>  <br/> "
          },
          "ft": [
             {
