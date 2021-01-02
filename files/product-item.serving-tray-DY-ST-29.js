@@ -19,7 +19,7 @@ var productDetails={
       ],
       "product": {
          "bd": {
-            "id": "888400058",
+            "id": "888400029",
             "img": "/images/products/serving-tray/Serving Tray_DY-ST-29/1.jpg",
             "imgs": [
                {

@@ -19,7 +19,7 @@ var productDetails={
       ],
       "product": {
          "bd": {
-            "id": "888800042",
+            "id": "88880007",
             "img": "/images/products/wood-cheese-board/cheese board_DY-WCB-07/1.jpg",
             "imgs": [
                {
