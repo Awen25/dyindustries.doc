@@ -19,7 +19,7 @@ var productDetails={
       ],
       "product": {
          "bd": {
-            "id": "888300024",
+            "id": "88830009",
             "img": "/images/products/marble-cheese-board/cheese board _DY-MCB-09/1.jpg",
             "imgs": [
                {
